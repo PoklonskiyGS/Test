@@ -1,0 +1,7 @@
+pydirectinput
+pyperclip
+keyboard
+pyautogui
+pillow
+opencv-python
+pytesseract

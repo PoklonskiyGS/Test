@@ -1,0 +1,36 @@
+{
+  "target_mods": [],
+  "target_mods_with_values": [
+    {
+      "name": "move",
+      "min_value": 10
+    }
+  ],
+  "positions": {
+    "item": [
+      418,
+      678
+    ],
+    "alteration_orb": [
+      154,
+      375
+    ],
+    "augmentation_orb": [
+      289,
+      433
+    ]
+  },
+  "selected_item": "boots",
+  "settings": {
+    "implicit_mod_count": 1,
+    "stop_after_mod_count": 2,
+    "click_delay": 0.12,
+    "server_response_delay": 0.25,
+    "max_attempts": 2000,
+    "use_ocr": false
+  },
+  "hotkeys": {
+    "toggle": "F7",
+    "quit": "F9"
+  }
+}
